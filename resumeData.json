@@ -119,7 +119,7 @@
       {
         "title": "PLC Controlled Sorting System",
         "category": "Simulated material handling using PLCs and sensors",
-        "image": "plc-project.png",
+        "images": "Plc-project.jpg",
         "url": "https://github.com/gnrahul"
       },
       {
@@ -131,7 +131,7 @@
 {
   "title": "Twitter Bot Detection using Machine Learning",
   "category": "Developed a bot detection model analyzing tweet behavior and user metadata",
-  "image": "twitter_python.png",
+  "images": "Twitter_python.png",
   "url": "#"
 },
 {

@@ -1,0 +1,160 @@
+{
+  "main": {
+    "name": "Rahul G N",
+    "occupation": "Robotics & Automation Engineer",
+    "description": "Currently pursuing MSc in Digitalization & Automation",
+    "employer": " Open to Internship / Working Student Roles",
+    "jobDescription": "Driven by passion for robotics, digitalization, and industrial automation.",
+    "image": "profile_pic.jpg",
+    "bio": "I am an Automation & Digitalization master's student in Germany, with a hands-on approach to learning and a passion for robotics. I’m constantly building, experimenting, and eager to contribute to real-world industrial applications. My strength lies in understanding both hardware and software aspects of automation, including PLC programming, sensor integration, and digital twin technologies.",
+    "contactmessage": "Want to collaborate, hire, or discuss a project? Let's connect!",
+    "email": "gnrahul1941@outlook.com",
+    "phone": "+49 15203018317",
+    "address": {
+      "street": "Wallstr. 28",
+      "city": "Stade",
+      "state": "Lower Saxony",
+      "zip": "21682"
+    },
+    "website": "https://gnrahul.github.io",
+    "resumedownload": "https://drive.google.com/file/d/1flwm-pA9vQewQAzxNn8oigS5iwJ7BHdG/view?usp=drive_link",
+    "social": [
+     
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rahul-g-n/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/rahul_reddy_gn",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/gnrahul",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm constantly learning new technologies, but these are where I'm currently strongest:",
+    "education": [
+      {
+        "school": "University of Europe for Applied Sciences",
+        "degree": "MSc in Digitalization & Automation",
+        "graduated": "Expected 2025",
+        "description": " Focused on robotics, automation, IoT, control systems, PLC programming, and digital transformation in industrial environments. Gaining expertise in technologies such as KUKA Sim, MATLAB, and industrial data analytics."
+  
+      },
+      {
+        "school": "BNM Institute of Technology (VTU)",
+        "degree": "Bachelor of Engineering in Computer Science Engineering ",
+        "graduated": "2022",
+        "description": " Developed a strong foundation in computer systems, programming, and applied machine learning. Completed multiple projects including Twitter bot detection, dam management systems, and web-based automation tools."
+      },
+{
+        "school": "Government Polytechnic Chintamani (DTE)",
+        "degree": "Diploma in Computer Science Engineering ",
+        "graduated": "2018",
+        "description": "Completed a hands-on diploma program focused on computer fundamentals, programming, and system design.Completed multiple projects Student feedback & Attandance management systems, and web-based tools like HTML, CSS, MYSQL server."
+      }
+    ],
+    "work": [
+      {
+    "company": "Flink – Quick Commerce Delivery",
+    "title": "Werkstudent Rider",
+    "years": "Jan 2024 – Dec 2024",
+    "description": "Delivered groceries efficiently via e-bike across Hamburg, consistently met performance targets, and collaborated with a diverse international team in a high-paced tech-enabled environment."
+  },
+  {
+    "company": "Kalyani Motors Arena Pvt Ltd.",
+    "title": "Insurance Coordinator Executive",
+    "years": "Apr 2022 – Jan 2023",
+    "description": "Managed vehicle insurance sales and customer documentation, supported internal reporting via Zoom, and contributed to streamlined operations within the dealership."
+  }
+
+    ],
+    "skills": [
+      {
+        "name": "PLC Programming",
+        "description": "Hands-on experience with Siemens TIA Portal and Allen Bradley systems.",
+        "image": "PLC.png"
+      },
+      {
+        "name": "React JS",
+        "description": "Portfolio and academic project development using modern front-end tools.",
+        "image": "react.jpg"
+      },
+      {
+        "name": "Digital Twin",
+        "description": "Worked on remote controlling of robotic arms using sensor data mapped to digital twins.",
+        "image": "digital-twin.jpg"
+      },
+      {
+        "name": "Python",
+        "description": "Used for data automation, industrial analytics, and backend scripting.",
+        "image": "python.jpg"
+      },
+      {
+        "name": "MATLAB & Simulink",
+        "description": "Control system modeling and industrial simulations.",
+        "image": "Matlab.gif"
+      },
+      {
+        "name": "Git & GitHub",
+        "description": "Version control for academic and personal projects.",
+        "image": "git.jpg"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Digital Arm Twin",
+        "category": "A project to control a robotic arm using human sensor input",
+        "image": "digital-arm.webp",
+        "url": "https://github.com/gnrahul/Digital-Twin-RoboticArm"
+      },
+      {
+        "title": "PLC Controlled Sorting System",
+        "category": "Simulated material handling using PLCs and sensors",
+        "image": "plc-project.jpg",
+        "url": "https://github.com/gnrahul"
+      },
+      {
+  "title": "Currency Note Detection using MATLAB",
+  "category": "Academic project for intelligent currency recognition using image processing",
+  "image": "currency-project.jpg",
+  "url": "#"
+},
+{
+  "title": "Twitter Bot Detection using Machine Learning",
+  "category": "Developed a bot detection model analyzing tweet behavior and user metadata",
+  "image": "twitter_python.png",
+  "url": "#"
+},
+{
+  "title": "Dam Management System",
+  "category": "Web-based project using HTML, CSS & PHP to manage dam data across India",
+  "image": "dam-project.jpg",
+  "url": "https://github.com/gnrahul"
+},
+{
+        "title": "React Resume Site",
+        "category": "Live hosted portfolio with project & skill showcase",
+        "image": "resume-site.avif",
+        "url": "https://gnrahul.github.io"
+      }
+ 
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Rahul is very passionate and hands-on with his approach to automation and digital systems. He brings energy, curiosity, and commitment to every project.",
+        "user": "Student in PFH University of Applied Science"
+      }
+    ]
+  }
+}

@@ -1,1 +1,0 @@
-# gnrahul.github.io
